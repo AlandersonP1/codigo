@@ -1,0 +1,45 @@
+4) Completar a sequência
+a) Sequência ímpar:
+
+Sequência: 1, 3, 5, 7, ___
+Padrão: Números ímpares consecutivos.
+Próximo número: 9.
+b) Sequência de potência de 2:
+
+Sequência: 2, 4, 8, 16, 32, 64, ____
+Padrão: Potências de 2.
+Próximo número: 128.
+c) Sequência de quadrados perfeitos:
+
+Sequência: 0, 1, 4, 9, 16, 25, 36, ____
+Padrão: Quadrados dos números naturais.
+Próximo número: 49 (7^2).
+d) Sequência de quadrados de múltiplos de 2:
+
+Sequência: 4, 16, 36, 64, ____
+Padrão: Quadrados de 2, 4, 6, 8.
+Próximo número: 100 (10^2).
+e) Sequência de Fibonacci:
+
+Sequência: 1, 1, 2, 3, 5, 8, ____
+Padrão: Cada número é a soma dos dois anteriores.
+Próximo número: 13.
+f) Sequência misturada:
+
+Sequência: 2, 10, 12, 16, 17, 18, 19, ____
+Padrão não é muito claro; parece que há uma mistura.
+A sequência parece estar alternando com algumas adições e pequenos saltos.
+Próximo número parece ser 20 (baseado na alternância e no padrão próximo ao fim).
+5) Descobrir qual interruptor controla qual lâmpada
+Para identificar qual interruptor controla qual lâmpada usando duas idas:
+
+Primeira ida:
+
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+Desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até as salas das lâmpadas.
+Identificação:
+
+A lâmpada que está acesa é controlada pelo segundo interruptor (o último ligado).
+A lâmpada que está apagada, mas quente ao toque, é controlada pelo primeiro interruptor (o primeiro que estava ligado e depois desligado).
+A lâmpada que está apagada e fria é controlada pelo terceiro interruptor (que nunca foi ligado).
